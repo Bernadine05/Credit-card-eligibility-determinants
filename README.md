@@ -74,3 +74,16 @@ WHERE
 
 ## Results/Findings
 
+The analysis results are as follows:
+- Access to communication plays a minor role in credit card eligibility for both male and female customers
+- Credit card eligibility is low among the youth (male and female customers aged 35 and below) who earn 100,000 or less
+- Family dynamics i.e. average number of children and family members, play a minor role in credit card eligibility for both male and female customers
+- More male customers who are unemployed are eligible for credit cards compared to their female counterparts
+
+## Recommendations
+Based on the analysis, the following actions are recommended
+- Focus their customer engagement on male customers who are unemployed to increase the number of people getting credit cards
+- Implement a customer segmentation strategy to target female and male customers earning over 100,000
+- Focus on male customers across all age groups who earn over 100,000
+
+
